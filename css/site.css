@@ -35,6 +35,40 @@ footer .social>a:hover{
     color: var(--secondary-color);
 }
 
+.bsicon{
+    color: purple;
+}
+
+.jsicon{
+    color: rgb(226, 211, 4)
+}
+
+.html5icon{
+    color: orangered;
+}
+
+.css3icon{
+    color: rgb(11, 82, 214);
+}
+
+.checklist >li i{
+    color: var(--secondary-color);
+}
+
+code[class*="language-"],
+        pre[class*="language-"] {
+        white-space: pre-wrap;
+        word-break: break-all;
+        word-wrap: break-word;
+    }   
+
+
+
+
+
+
+
+
     main>.container {
     padding: 60px 15px 0;
     margin-bottom: 5rem;
