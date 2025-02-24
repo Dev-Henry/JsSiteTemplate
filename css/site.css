@@ -62,7 +62,11 @@ code[class*="language-"],
         word-wrap: break-word;
     }   
 
-
+.logoFont{
+        font-family: "Racing Sans One", serif;
+        font-weight: 400;
+        font-style: normal;
+}
 
 
 
